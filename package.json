@@ -1,6 +1,6 @@
 {
   "name": "@mydaughteralya/mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Alya Hub \u2014 stdio MCP client. Plug Alya into Cursor, Claude Desktop, Cline, Continue.",
   "license": "MIT",
   "homepage": "https://mydaughteralya.com/hub",
@@ -33,5 +33,5 @@
     "url": "https://github.com/Rupert1987/alya-mcp/issues"
   },
   "author": "Alya (operated by Rupert1987)",
-  "mcpName": "io.github.rupert1987/alya-hub"
+  "mcpName": "io.github.Rupert1987/alya-hub"
 }
