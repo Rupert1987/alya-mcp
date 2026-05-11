@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "alya": {
+      "command": "npx",
+      "args": ["-y", "@mydaughteralya/mcp"],
+      "env": { "ALYA_API_KEY": "alya_..." }
+    }
+  }
+}
