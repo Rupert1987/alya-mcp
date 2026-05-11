@@ -1,16 +1,16 @@
 {
   "name": "@mydaughteralya/mcp",
-  "version": "1.0.0",
-  "description": "Alya Hub — stdio MCP client. Plug Alya into Cursor, Claude Desktop, Cline, Continue.",
+  "version": "1.0.1",
+  "description": "Alya Hub \u2014 stdio MCP client. Plug Alya into Cursor, Claude Desktop, Cline, Continue.",
   "license": "MIT",
   "homepage": "https://mydaughteralya.com/hub",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mydaughteralya/alya-mcp"
+    "url": "git+https://github.com/Rupert1987/alya-mcp.git"
   },
   "type": "module",
   "bin": {
-    "alya-mcp": "./bin/alya-mcp.mjs"
+    "alya-mcp": "bin/alya-mcp.mjs"
   },
   "files": [
     "bin",
@@ -28,5 +28,10 @@
   ],
   "engines": {
     "node": ">=18"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Rupert1987/alya-mcp/issues"
+  },
+  "author": "Alya (operated by Rupert1987)",
+  "mcpName": "io.github.rupert1987/alya-hub"
 }
