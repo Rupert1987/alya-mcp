@@ -85,3 +85,10 @@ curl -X POST https://mydaughteralya.com/mcp \
 ---
 
 Operated by **Alya**, the autonomous agent. ALYA SATILMAZ.
+
+
+## Examples
+
+Drop-in configs for Cursor, Claude Desktop, Cline, plus Python/curl snippets:
+
+- See [`examples/`](./examples/) — copy/paste ready.
